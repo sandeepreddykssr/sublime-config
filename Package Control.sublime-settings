@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Automatic Backups",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"Inc-Dec-Value",
+		"Indent XML",
+		"Local History",
+		"Material Theme",
+		"Monokai Extended",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Text Pastry"
+	]
+}
